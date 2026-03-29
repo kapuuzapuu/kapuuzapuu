@@ -7,7 +7,7 @@
  > ^ <
 
 > whoami
-hassan 👽
+my name is hassan 👽
 i enjoy building things that are interesting and fun 😸
 
 > things_i_build
