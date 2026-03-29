@@ -8,7 +8,7 @@
 
 > whoami
 hassan 👽
-i like building things that are interesting and fun 😸
+i enjoy building things that are interesting and fun 😸
 
 > things_i_build
 games 👾
@@ -16,7 +16,7 @@ tools 🤖
 whatever seems cool 😎
 
 > status
-mad chilling 🦧
+building things 🦧
 ```
 ```bash
 ^C
