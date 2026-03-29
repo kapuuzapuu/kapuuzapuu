@@ -1,16 +1,24 @@
-## Hi there 👋
+```bash
+~ % python kapuuzapuu.py
+```
+```
+ /\_/\
+( o.o )
+ > ^ <
 
-<!--
-**kapuuzapuu/kapuuzapuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> whoami
+hassan 👽
+i like building things that are interesting and fun 😸
 
-Here are some ideas to get you started:
+> things_i_build
+games 👾
+tools 🤖
+whatever seems cool 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> status
+mad chilling 🦧
+```
+```bash
+^C
+~ % █
+```
