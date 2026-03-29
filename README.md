@@ -9,7 +9,7 @@
 > whoami
 hi 👋
 my name is hassan 👽
-i enjoy building things that are interesting and fun 😸
+i enjoy building things that are fun and interesting 😸
 
 > things_i_build
 games 👾
