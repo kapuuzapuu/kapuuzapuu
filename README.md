@@ -1,5 +1,3 @@
-![header](header.svg)
-
 ```bash
 ~ % python kapuuzapuu.py
 ```
