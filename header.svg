@@ -13,25 +13,34 @@
         83%  { stop-color: hsl(300, 100%, 60%); }
         100% { stop-color: hsl(360, 100%, 60%); }
       }
-
-      /* Left to right: block 0 leads, each block after is delayed further back */
+ 
       .s0  { animation: wave 3s linear infinite; animation-delay:  0.00s; }
-      .s1  { animation: wave 3s linear infinite; animation-delay: -2.80s; }
-      .s2  { animation: wave 3s linear infinite; animation-delay: -2.60s; }
-      .s3  { animation: wave 3s linear infinite; animation-delay: -2.40s; }
-      .s4  { animation: wave 3s linear infinite; animation-delay: -2.20s; }
-      .s5  { animation: wave 3s linear infinite; animation-delay: -2.00s; }
-      .s6  { animation: wave 3s linear infinite; animation-delay: -1.80s; }
-      .s7  { animation: wave 3s linear infinite; animation-delay: -1.60s; }
-      .s8  { animation: wave 3s linear infinite; animation-delay: -1.40s; }
-      .s9  { animation: wave 3s linear infinite; animation-delay: -1.20s; }
-      .s10 { animation: wave 3s linear infinite; animation-delay: -1.00s; }
-      .s11 { animation: wave 3s linear infinite; animation-delay: -0.80s; }
-      .s12 { animation: wave 3s linear infinite; animation-delay: -0.60s; }
-      .s13 { animation: wave 3s linear infinite; animation-delay: -0.40s; }
-      .s14 { animation: wave 3s linear infinite; animation-delay: -0.20s; }
+      .s1  { animation: wave 3s linear infinite; animation-delay: -2.88s; }
+      .s2  { animation: wave 3s linear infinite; animation-delay: -2.76s; }
+      .s3  { animation: wave 3s linear infinite; animation-delay: -2.64s; }
+      .s4  { animation: wave 3s linear infinite; animation-delay: -2.52s; }
+      .s5  { animation: wave 3s linear infinite; animation-delay: -2.40s; }
+      .s6  { animation: wave 3s linear infinite; animation-delay: -2.28s; }
+      .s7  { animation: wave 3s linear infinite; animation-delay: -2.16s; }
+      .s8  { animation: wave 3s linear infinite; animation-delay: -2.04s; }
+      .s9  { animation: wave 3s linear infinite; animation-delay: -1.92s; }
+      .s10 { animation: wave 3s linear infinite; animation-delay: -1.80s; }
+      .s11 { animation: wave 3s linear infinite; animation-delay: -1.68s; }
+      .s12 { animation: wave 3s linear infinite; animation-delay: -1.56s; }
+      .s13 { animation: wave 3s linear infinite; animation-delay: -1.44s; }
+      .s14 { animation: wave 3s linear infinite; animation-delay: -1.32s; }
+      .s15 { animation: wave 3s linear infinite; animation-delay: -1.20s; }
+      .s16 { animation: wave 3s linear infinite; animation-delay: -1.08s; }
+      .s17 { animation: wave 3s linear infinite; animation-delay: -0.96s; }
+      .s18 { animation: wave 3s linear infinite; animation-delay: -0.84s; }
+      .s19 { animation: wave 3s linear infinite; animation-delay: -0.72s; }
+      .s20 { animation: wave 3s linear infinite; animation-delay: -0.60s; }
+      .s21 { animation: wave 3s linear infinite; animation-delay: -0.48s; }
+      .s22 { animation: wave 3s linear infinite; animation-delay: -0.36s; }
+      .s23 { animation: wave 3s linear infinite; animation-delay: -0.24s; }
+      .s24 { animation: wave 3s linear infinite; animation-delay: -0.12s; }
     </style>
-
+ 
     <linearGradient id="g0"  x1="0" y1="0" x2="0" y2="1"><stop class="s0"  offset="50%"/><stop class="s0"  offset="50%"/></linearGradient>
     <linearGradient id="g1"  x1="0" y1="0" x2="0" y2="1"><stop class="s1"  offset="50%"/><stop class="s1"  offset="50%"/></linearGradient>
     <linearGradient id="g2"  x1="0" y1="0" x2="0" y2="1"><stop class="s2"  offset="50%"/><stop class="s2"  offset="50%"/></linearGradient>
@@ -47,9 +56,19 @@
     <linearGradient id="g12" x1="0" y1="0" x2="0" y2="1"><stop class="s12" offset="50%"/><stop class="s12" offset="50%"/></linearGradient>
     <linearGradient id="g13" x1="0" y1="0" x2="0" y2="1"><stop class="s13" offset="50%"/><stop class="s13" offset="50%"/></linearGradient>
     <linearGradient id="g14" x1="0" y1="0" x2="0" y2="1"><stop class="s14" offset="50%"/><stop class="s14" offset="50%"/></linearGradient>
+    <linearGradient id="g15" x1="0" y1="0" x2="0" y2="1"><stop class="s15" offset="50%"/><stop class="s15" offset="50%"/></linearGradient>
+    <linearGradient id="g16" x1="0" y1="0" x2="0" y2="1"><stop class="s16" offset="50%"/><stop class="s16" offset="50%"/></linearGradient>
+    <linearGradient id="g17" x1="0" y1="0" x2="0" y2="1"><stop class="s17" offset="50%"/><stop class="s17" offset="50%"/></linearGradient>
+    <linearGradient id="g18" x1="0" y1="0" x2="0" y2="1"><stop class="s18" offset="50%"/><stop class="s18" offset="50%"/></linearGradient>
+    <linearGradient id="g19" x1="0" y1="0" x2="0" y2="1"><stop class="s19" offset="50%"/><stop class="s19" offset="50%"/></linearGradient>
+    <linearGradient id="g20" x1="0" y1="0" x2="0" y2="1"><stop class="s20" offset="50%"/><stop class="s20" offset="50%"/></linearGradient>
+    <linearGradient id="g21" x1="0" y1="0" x2="0" y2="1"><stop class="s21" offset="50%"/><stop class="s21" offset="50%"/></linearGradient>
+    <linearGradient id="g22" x1="0" y1="0" x2="0" y2="1"><stop class="s22" offset="50%"/><stop class="s22" offset="50%"/></linearGradient>
+    <linearGradient id="g23" x1="0" y1="0" x2="0" y2="1"><stop class="s23" offset="50%"/><stop class="s23" offset="50%"/></linearGradient>
+    <linearGradient id="g24" x1="0" y1="0" x2="0" y2="1"><stop class="s24" offset="50%"/><stop class="s24" offset="50%"/></linearGradient>
   </defs>
-
-  <text x="340" y="58" text-anchor="middle" font-family="monospace" font-size="42" letter-spacing="-2">
+ 
+  <text x="340" y="58" text-anchor="middle" font-family="monospace" font-size="42" letter-spacing="2">
     <tspan fill="url(#g0)">█</tspan>
     <tspan fill="url(#g1)">█</tspan>
     <tspan fill="url(#g2)">█</tspan>
@@ -65,6 +84,16 @@
     <tspan fill="url(#g12)">█</tspan>
     <tspan fill="url(#g13)">█</tspan>
     <tspan fill="url(#g14)">█</tspan>
+    <tspan fill="url(#g15)">█</tspan>
+    <tspan fill="url(#g16)">█</tspan>
+    <tspan fill="url(#g17)">█</tspan>
+    <tspan fill="url(#g18)">█</tspan>
+    <tspan fill="url(#g19)">█</tspan>
+    <tspan fill="url(#g20)">█</tspan>
+    <tspan fill="url(#g21)">█</tspan>
+    <tspan fill="url(#g22)">█</tspan>
+    <tspan fill="url(#g23)">█</tspan>
+    <tspan fill="url(#g24)">█</tspan>
   </text>
 
 </svg>
