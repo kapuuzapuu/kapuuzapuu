@@ -1,6 +1,6 @@
-<svg width="100%" viewBox="0 0 680 80" role="img" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 900 60" role="img" xmlns="http://www.w3.org/2000/svg">
   <title>KapuuZapuu GitHub profile header</title>
-  <desc>A line of ASCII block characters with an RGB wave animation traveling left to right</desc>
+  <desc>A line of colored ASCII blocks with an RGB wave animation traveling left to right</desc>
 
   <defs>
     <style>
@@ -13,7 +13,6 @@
         83%  { stop-color: hsl(300, 100%, 60%); }
         100% { stop-color: hsl(360, 100%, 60%); }
       }
- 
       .s0  { animation: wave 3s linear infinite; animation-delay:  0.00s; }
       .s1  { animation: wave 3s linear infinite; animation-delay: -2.88s; }
       .s2  { animation: wave 3s linear infinite; animation-delay: -2.76s; }
@@ -40,7 +39,7 @@
       .s23 { animation: wave 3s linear infinite; animation-delay: -0.24s; }
       .s24 { animation: wave 3s linear infinite; animation-delay: -0.12s; }
     </style>
- 
+
     <linearGradient id="g0"  x1="0" y1="0" x2="0" y2="1"><stop class="s0"  offset="50%"/><stop class="s0"  offset="50%"/></linearGradient>
     <linearGradient id="g1"  x1="0" y1="0" x2="0" y2="1"><stop class="s1"  offset="50%"/><stop class="s1"  offset="50%"/></linearGradient>
     <linearGradient id="g2"  x1="0" y1="0" x2="0" y2="1"><stop class="s2"  offset="50%"/><stop class="s2"  offset="50%"/></linearGradient>
@@ -67,33 +66,32 @@
     <linearGradient id="g23" x1="0" y1="0" x2="0" y2="1"><stop class="s23" offset="50%"/><stop class="s23" offset="50%"/></linearGradient>
     <linearGradient id="g24" x1="0" y1="0" x2="0" y2="1"><stop class="s24" offset="50%"/><stop class="s24" offset="50%"/></linearGradient>
   </defs>
- 
-  <text x="340" y="58" text-anchor="middle" font-family="monospace" font-size="42" letter-spacing="2">
-    <tspan fill="url(#g0)">█</tspan>
-    <tspan fill="url(#g1)">█</tspan>
-    <tspan fill="url(#g2)">█</tspan>
-    <tspan fill="url(#g3)">█</tspan>
-    <tspan fill="url(#g4)">█</tspan>
-    <tspan fill="url(#g5)">█</tspan>
-    <tspan fill="url(#g6)">█</tspan>
-    <tspan fill="url(#g7)">█</tspan>
-    <tspan fill="url(#g8)">█</tspan>
-    <tspan fill="url(#g9)">█</tspan>
-    <tspan fill="url(#g10)">█</tspan>
-    <tspan fill="url(#g11)">█</tspan>
-    <tspan fill="url(#g12)">█</tspan>
-    <tspan fill="url(#g13)">█</tspan>
-    <tspan fill="url(#g14)">█</tspan>
-    <tspan fill="url(#g15)">█</tspan>
-    <tspan fill="url(#g16)">█</tspan>
-    <tspan fill="url(#g17)">█</tspan>
-    <tspan fill="url(#g18)">█</tspan>
-    <tspan fill="url(#g19)">█</tspan>
-    <tspan fill="url(#g20)">█</tspan>
-    <tspan fill="url(#g21)">█</tspan>
-    <tspan fill="url(#g22)">█</tspan>
-    <tspan fill="url(#g23)">█</tspan>
-    <tspan fill="url(#g24)">█</tspan>
-  </text>
+
+  <!-- 25 rects, each 36px wide, 0px gap, starting at x=0 -->
+  <rect x="0"   y="0" width="36" height="60" fill="url(#g0)"/>
+  <rect x="36"  y="0" width="36" height="60" fill="url(#g1)"/>
+  <rect x="72"  y="0" width="36" height="60" fill="url(#g2)"/>
+  <rect x="108" y="0" width="36" height="60" fill="url(#g3)"/>
+  <rect x="144" y="0" width="36" height="60" fill="url(#g4)"/>
+  <rect x="180" y="0" width="36" height="60" fill="url(#g5)"/>
+  <rect x="216" y="0" width="36" height="60" fill="url(#g6)"/>
+  <rect x="252" y="0" width="36" height="60" fill="url(#g7)"/>
+  <rect x="288" y="0" width="36" height="60" fill="url(#g8)"/>
+  <rect x="324" y="0" width="36" height="60" fill="url(#g9)"/>
+  <rect x="360" y="0" width="36" height="60" fill="url(#g10)"/>
+  <rect x="396" y="0" width="36" height="60" fill="url(#g11)"/>
+  <rect x="432" y="0" width="36" height="60" fill="url(#g12)"/>
+  <rect x="468" y="0" width="36" height="60" fill="url(#g13)"/>
+  <rect x="504" y="0" width="36" height="60" fill="url(#g14)"/>
+  <rect x="540" y="0" width="36" height="60" fill="url(#g15)"/>
+  <rect x="576" y="0" width="36" height="60" fill="url(#g16)"/>
+  <rect x="612" y="0" width="36" height="60" fill="url(#g17)"/>
+  <rect x="648" y="0" width="36" height="60" fill="url(#g18)"/>
+  <rect x="684" y="0" width="36" height="60" fill="url(#g19)"/>
+  <rect x="720" y="0" width="36" height="60" fill="url(#g20)"/>
+  <rect x="756" y="0" width="36" height="60" fill="url(#g21)"/>
+  <rect x="792" y="0" width="36" height="60" fill="url(#g22)"/>
+  <rect x="828" y="0" width="36" height="60" fill="url(#g23)"/>
+  <rect x="864" y="0" width="36" height="60" fill="url(#g24)"/>
 
 </svg>
